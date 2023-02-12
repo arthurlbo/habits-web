@@ -30,4 +30,7 @@ npm run dev
 
 - `dev`: run development server
 
+### 📱 Mobile version
+[Habits App](https://github.com/arthurlbo/habits-app)
+
 ## Made with 💜 by Arthur
