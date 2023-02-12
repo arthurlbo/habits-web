@@ -15,7 +15,7 @@
 
 ```bash
 git@github.com:arthurlbo/habits-web.git
-cd habits
+cd habits-web
 ```
 
 ### 🚀 Run
